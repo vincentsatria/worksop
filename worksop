@@ -1,0 +1,19 @@
+<em><strong>Simple Transaction API</strong></em> for public use.
+
+
+There are several API that ready to be used:
+- [x]/api/accountbalance
+  - [x]/api/accountbalance/{accountNumber}
+- [x]/api/blockaccount
+- [x]/api/fundtransfer
+- [x]/api/inquirystatustransaction
+- [x]/api/purchase
+- [x]/api/unblockaccount
+- [ ]/api/notready(example)
+
+
+
+
+![Image of SoftwareAGLogo ](https://www.openapis.org/wp-content/uploads/sites/3/2017/04/software_ag.png)
+Simple Transaction API was made using Software AG Integration Server
+[SoftwareAG](https://www.softwareag.com/)
